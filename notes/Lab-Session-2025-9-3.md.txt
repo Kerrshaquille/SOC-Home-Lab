@@ -1,0 +1,44 @@
+# Lab Setup downloads  - September 3, 2025
+
+## What I'm doing is downloading everything i need to set my lab up
+
+## Steps I took today
+- Download VMware Workstation Pro (VM)
+It's basically allows you to run multiple "Fake" computers on your real computer 
+- You will have to create an account to download product (Latest Version)
+
+- Download PFSense (Virtual Firewall/Router)
+It acts like the router in your house, but for your virtual network (VM)
+- You will have to create an account to download product as well
+- Select AMD(64-bit) ISO File Latest Version
+- You will have to make a purchase but it is free!
+- Download the ISO file when you get the email
+
+- Download Windows Server 2019 (Practice Server)
+Basically a powerful computer that manages other computers in a busniess
+- Fill out registration form
+- Download ISO file (64-bit)
+
+- Download Windows 10 Enterprise (Practice Desktop)
+Basically the busniess version of Windows 10 but for testing
+- Fill out registration form
+- Download ISO file (64-bit)
+
+- Download Ubuntu Linux (Practice Linux Computer)
+A different Operating System (Like Windows but free and open source)
+- Download the Latest Version 64-bit
+- No account needed!
+
+- Download Splunk Enterprise (Log Analyzer)
+It collects and analyzes computer logs (A detective for computer events)
+- Create a Splunk account
+- Find Splunk Enterprise (Latest Version) For LINUX
+- Click "Copy WGET link" next to the download button (Save for later, Put it in your notepad or sticky notes)
+- Download the .TGZ file
+
+- Download Splunk Universal Forwarder (Sends Logs to Splunk)
+Sends computer activity logs from Windows to your Splunk analyzer
+- Find Universal Forwarder (Latest Verison) For WINDOWS
+- Download the .MSI file
+
+- Now that we have the stuff we need downloaded i'm going to begin the set up progress

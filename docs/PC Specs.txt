@@ -1,0 +1,12 @@
+# My PC Specs
+
+## After downloading all the programs i will be using for my home lab I had to make sure my PC would be able to manage everything haha
+
+## Processor: AMD Ryzen 7 5800X3D 8-Core Processor 3.40 GHz
+- Installed RAM:    32.0 GB
+- Storage: 954 GB SSD ADATA SX8200PNP, 
+- 1.82 TB HDD ST2000DM008-2FR102
+- Graphics Card: NVIDIA GeForce RTX 3070 Ti (8 GB)
+- System Type: 64-bit operating system, x64-based processor
+
+## Definitely Check PC Specs first and I would say run it through ChatGPT or AI to see compatiblity for adjustments
