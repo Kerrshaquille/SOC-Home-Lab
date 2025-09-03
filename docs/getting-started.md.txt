@@ -1,0 +1,16 @@
+# Getting Started with My SOC Lab
+
+## Day 1 - Setting up GitHub
+- Created GitHub account
+-Set up repository structure
+-Learning hot to document everything
+
+## Next Steps
+- Set up VM's
+- Install SIEM Software
+-Start learning Log analysis
+
+## Notes
+- Using GitHub for the first time is a bit difficult but i'm learning as I go
+- Hopefully i'll get the hang of it in no time, practice builds consistency
+- This documentation is really important to me for remembering what i did
