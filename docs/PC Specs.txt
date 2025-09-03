@@ -9,4 +9,4 @@
 - Graphics Card: NVIDIA GeForce RTX 3070 Ti (8 GB)
 - System Type: 64-bit operating system, x64-based processor
 
-## Definitely Check PC Specs first and I would say run it through ChatGPT or AI to see compatiblity for adjustments
+## Definitely Check PC Specs first and I would say run it through ChatGPT or AI to see compatiblity for adjustment
